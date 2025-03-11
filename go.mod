@@ -1,3 +1,3 @@
-module github.com/contentforward/date
+module github.com/toaweme/date
 
 go 1.13
